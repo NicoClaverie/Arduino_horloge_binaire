@@ -1,4 +1,4 @@
-| Nom                                                | Quantité | Composant                      | nomemcalture E44 |
+| Nom                                                | Quantité | Composant                      | nomemcalture [E44](https://www.e44.com/) |
 |----------------------------------------------------|----------|--------------------------------| -- |
 | D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D16, D17, D18 | 17       | Vert LED                       | Led 5mm verte |
 | U1, U2, U3                                        | 3        | Registre de décalage 8 bits    | Ic: digital;8bits ; shift register;dip16 74hc595 |
